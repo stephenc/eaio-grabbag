@@ -10,7 +10,7 @@
 
   <groupId>com.github.stephenc.eaio-grabbag</groupId>
   <artifactId>grabbag</artifactId>
-  <version>1.8.1</version>
+  <version>1.8.2-SNAPSHOT</version>
   <name>A grabbag of wonderful things.</name>
   <description>Stuff that was originally written for johannburkard.de, media.io, pdfimg and various other webapps and was always copied around.</description>
   <url>http://github.com/stephenc/eaio-grabbag</url>
@@ -25,7 +25,7 @@
     <connection>scm:git:git://github.com/stephenc/eaio-grabbag.git</connection>
     <developerConnection>scm:git:git@github.com:stephenc/eaio-grabbag.git</developerConnection>
     <url>http://github.com/stephenc/eaio-grabbag/tree/master/</url>
-    <tag>grabbag-1.8.1</tag>
+    <tag>HEAD</tag>
   </scm>
 
   <licenses>
